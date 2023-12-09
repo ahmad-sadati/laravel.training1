@@ -1,7 +1,8 @@
 @extends('layouts.managementmain')
 
 @section('managelayout')
-    
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
@@ -330,4 +331,7 @@
 
                 </div>
                 <!-- /.container-fluid -->
+
+            </div>
+            <!-- End of Main Content -->
                 @endsection
